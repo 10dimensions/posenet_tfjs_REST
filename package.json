@@ -2,9 +2,9 @@
   "name": "posenet_tfjs_REST",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "./src/app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node ./src/app.js"
   },
   "repository": {
     "type": "git",
